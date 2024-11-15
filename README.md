@@ -2,6 +2,7 @@
 
 A Typst template for generating elegant business cards, inspired by the iconic business card scene from American Psycho. 
 
+> Look at that subtle off-white coloring. The tasteful thickness of it. Oh my God, it even has a watermark.
 ## Prerequisites
 
 - [Typst](https://typst.app/) installed on your system
