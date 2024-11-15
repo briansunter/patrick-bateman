@@ -11,3 +11,9 @@ A Typst template for generating elegant business cards, inspired by the iconic b
 1. Clone this repository
 2. Modify `main.typ` with your information:
 3. Run `typst compile main.typ` to generate the business card.
+
+## Reference
+### Original
+![Original](./images/image.png)
+### Typst 
+![Typst](./images/typst.png)
